@@ -1,0 +1,1 @@
+github를 cursor에서 사용하기
